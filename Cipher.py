@@ -1,5 +1,5 @@
 #////////////////////////////
-# 	cipher.py
+# cipher.py
 # Author: Jerrin C. Redmon
 # Date: May 22, 2022
 #////////////////////////////
